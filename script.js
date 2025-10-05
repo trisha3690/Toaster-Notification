@@ -29,5 +29,5 @@ let toaster = createToaster({
 });
 toaster("Download Done");
 setTimeout(() => {
-    toaster("Harsh accepted your request");
+    toaster("Tanisha accepted your request");
 }, 2000);

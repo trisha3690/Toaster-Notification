@@ -33,5 +33,5 @@ setTimeout(() => {
 }, 2000);
 
 setTimeout(() => {
-    toaster("Diya send you a mesage");
+    toaster("Diya send you a message");
 }, 1500);
